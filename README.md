@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+# React Admin Dashboard using Material UI (MUI), Nivo Charts, FullCalendar, Formik, and more
+
+This repo contains the code written while following along [Ed Roh's React Admin Dashboard Tutorial](https://www.youtube.com/watch?v=wYpCWwD1oz0).
+
+## 1. Getting Started [00:00 - 36:57]
+
+- Created folder structure and installed packages
+- Used React Hooks like useState, useContext, useMemo
+- Created MUI themeSettings - palette, typography
+- Created light and dark mode settings
+
+---
+
+## **Getting Started with Create React App**
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
