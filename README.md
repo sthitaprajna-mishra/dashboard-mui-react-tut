@@ -9,6 +9,12 @@ This repo contains the code written while following along [Ed Roh's React Admin 
 - Created MUI themeSettings - palette, typography
 - Created light and dark mode settings
 
+## 2. TopBar and SideBar [37:00 - 1:27:00]
+
+- Created TopBar and SideBar
+- Used react-pro-sidebar package for creating SideBar
+- Used React Router for Links
+
 ---
 
 ## **Getting Started with Create React App**
